@@ -1,0 +1,2 @@
+# Heart_disease_Classification_project
+This project involves all the necessary steps that a machine learning model goes through, from collecting data to evaluating the model. The problem definition of this project is to train a classification model to predict whether a person has heart disease or not depending on their medical attributes. In the end, it uses cross validation too to calculate evaluation metrics.
